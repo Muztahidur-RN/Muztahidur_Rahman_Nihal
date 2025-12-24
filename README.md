@@ -40,7 +40,7 @@ A future-focused service hub and super shop concept aimed at providing daily nec
 ### 🔹 Daily Routine App
 A simple web application to manage and follow daily tasks.  
 - **Source Code:** https://github.com/muztahidur/daily  
-- **Live App:** https://muztahidur-rn.github.io/dailyapp  
+- **Live App:** https://muztahidur-rn.github.io/Daily_Routine_Old
 
 ---
 
